@@ -1,2 +1,6 @@
 # Hello-world
-Repository for my new coding info
+
+HI!
+
+My name is Steve, I live in Cleveland, Ohio with my wife and two dogs. 
+My favorite food is spaghetti. 
